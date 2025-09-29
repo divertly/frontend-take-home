@@ -21,6 +21,7 @@ Please create a column-based To Do application, similar to a JIRA Kanban or Trel
 * You have full design and UI creativity -- we want to see your creativity alongside your technical ability!
 
 ### Technical
+* Please do not use any AI code tools like Copilot, ChatGPT, Cursor, Claude, or other LLMs. We want to see how YOU write code, not how an LLM writes code.
 * Use whatever framework you think is best for the application -- or no framework at all.
 * No need for 100% test coverage, but please at least include a few tests for us to review.
 * We should be able to get your application up and running without a lot of work, so please include any scripts, dependency lists, etc. that are necessary to build and/or run the app. Makefiles, Dockerfiles, etc. are encouraged.
