@@ -1,0 +1,8 @@
+{
+        "name": "Ubuntu",
+        "image": "mcr.microsoft.com/devcontainers/base:noble",
+        "features": {
+                "ghcr.io/jungaretti/features/make:1": {},
+                "ghcr.io/michidk/devcontainers-features/typos:1": {}
+        }
+}
